@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shipra Goswami</h1>
-<h3 align="center">I'm working remotely as a Software Developer 🚀 for a startup. I'm highly skilled with JavaScript💻 and all its associated runtimes. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨.</h3>
+<h3 align="center">I'm working as a Senior Software Developer 🚀. I'm highly skilled with JavaScript💻 and all its associated runtimes. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨.</h3>
 
-- 🌱 I’m currently working on  **MERN stack**
+- 🌱 I’m currently working on  **MERN/MEAN stack**
 
 - 📫 How to reach me **goswamishipra246@gmail.com**
 
