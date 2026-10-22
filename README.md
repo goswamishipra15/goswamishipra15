@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shipra Goswami</h1>
-<h3 align="center">I'm working as a Senior Software Developer 🚀. I'm highly skilled with JavaScript💻 and all its associated runtimes. I'm a passionate learner who's always willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life problems ✨.</h3>
+<h3 align="center">🚀 I'm a Senior Software Developer passionate about building scalable, efficient, and impactful software solutions. With expertise in JavaScript, modern frameworks, and multiple technology stacks, I enjoy exploring new technologies and continuously expanding my skill set. 🤖 I'm also enthusiastic about leveraging AI tools and emerging technologies to enhance productivity, streamline development, and solve real-world challenges. 💡 Always curious, continuously learning, and staying up to date with the latest trends in software development and AI. ✨</h3>
 
 - 🌱 I’m currently working on  **MERN/MEAN stack**
 
